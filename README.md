@@ -1,1 +1,1 @@
-![Vista previa del Menu]('/Comercio/tree/master/estilos/Imagenes/VistaPrevia.jpeg')
+![Vista previa del Menu]('/Comercio/estilos/Imagenes/VistaPrevia.jpeg')
