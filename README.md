@@ -1,2 +1,2 @@
-![Vista previa del Menú](Comercio/estilos/Imagenes/VistaPrevia.jpeg)
+![Vista previa del Menú](estilos/Imagenes/VistaPrevia.jpeg)
 
